@@ -1,10 +1,10 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name" translatable="false" tools:ignore="MissingTranslation">Best Travel</string>
-    <string name="com_travelpayouts_marker" translatable="false" tools:ignore="MissingTranslation">220738</string>
-    <string name="com_travelpayouts_api_token" translatable="false" tools:ignore="MissingTranslation">937eddccbc76e5b7be6ed416bc92f7d2</string>
+    <string name="com_travelpayouts_marker" translatable="false" tools:ignore="MissingTranslation"></string>
+    <string name="com_travelpayouts_api_token" translatable="false" tools:ignore="MissingTranslation"></string>
     <string name="com_travelpayouts_flight_engine_host" translatable="false" tools:ignore="MissingTranslation">https://www.travel-api.pw</string>
     <string name="com_travelpayouts_privacy_policy" translatable="false" tools:ignore="MissingTranslation">https://bruimafia.ru/privacy-policy/best-travel.html</string>
-    <string name="yandex_metrica_api" translatable="false">b2e3aa69-6c87-454e-81e3-e92ba0ffc1f2</string>
+    <string name="yandex_metrica_api" translatable="false"></string>
 
     <!--Fix typo in sdk-->
     <string name="waiting_message_price_shown">Prices are</string>
