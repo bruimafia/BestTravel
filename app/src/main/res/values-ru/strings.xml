@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="waiting_message_price_shown">Цены</string>
+    <string name="about_information_text">Best Travel – мечта каждого путешественника! Мы найдем не только дешевые авиабилеты на рейсы по всему миру, включая чартеры и лоукосты, но и подберем для Вас уютный отель. А если Вы захотите покататься на машине,  мы предложим самые оптимальные варианты. И все это в одном приложении! Мы не продаем билеты сами, а помогаем найти лучший вариант без комиссии с помощью более 300 агенств-партнеров.</string>
+    <string name="settings_title_region_settings">Региональные настройки</string>
+    <string name="dialog_title">Мы очень старались</string>
+    <string name="dialog_text">Будем благодарны за Вашу оценку и отзыв. Спасибо!</string>
+    <string name="dialog_negative">Позже</string>
+    <string name="dialog_positive">Оценить</string>
+</resources>

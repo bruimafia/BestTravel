@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "440387806532",
+    "firebase_url": "https://officialtickets-586c4.firebaseio.com",
+    "project_id": "officialtickets-586c4",
+    "storage_bucket": "officialtickets-586c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440387806532:android:8f76b06ac031451d",
+        "android_client_info": {
+          "package_name": "ru.bruimafia.officialtickets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440387806532-95tcr41og9r3a55sbbbkl3hdu9vag3rh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.bruimafia.officialtickets",
+            "certificate_hash": "d798feaf05f15356d5086b3a14556a4541b1b810"
+          }
+        },
+        {
+          "client_id": "440387806532-ifluec4jofj2e3n0lobuaiih2c46v2f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwCQalg5CEA2Q3tUtO4EprRygK-mrT0f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440387806532-ifluec4jofj2e3n0lobuaiih2c46v2f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

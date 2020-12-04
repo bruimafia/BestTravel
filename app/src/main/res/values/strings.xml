@@ -1,11 +1,17 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-  <string name="app_name" tools:ignore="MissingTranslation">Travel App</string>
-  <string name="com_travelpayouts_marker" tools:ignore="MissingTranslation"></string>
-  <string name="com_travelpayouts_api_token" tools:ignore="MissingTranslation"></string>
-  <string name="com_travelpayouts_flight_engine_host" tools:ignore="MissingTranslation">https://www.travel-api.pw</string>
-  <string name="com_travelpayouts_privacy_policy" tools:ignore="MissingTranslation"></string>
+    <string name="app_name" translatable="false" tools:ignore="MissingTranslation">Best Travel</string>
+    <string name="com_travelpayouts_marker" translatable="false" tools:ignore="MissingTranslation">220738</string>
+    <string name="com_travelpayouts_api_token" translatable="false" tools:ignore="MissingTranslation">937eddccbc76e5b7be6ed416bc92f7d2</string>
+    <string name="com_travelpayouts_flight_engine_host" translatable="false" tools:ignore="MissingTranslation">https://www.travel-api.pw</string>
+    <string name="com_travelpayouts_privacy_policy" translatable="false" tools:ignore="MissingTranslation">https://bruimafia.ru/privacy-policy/best-travel.html</string>
+    <string name="yandex_metrica_api" translatable="false">b2e3aa69-6c87-454e-81e3-e92ba0ffc1f2</string>
 
-  <!--Fix typo in sdk-->
-  <string name="waiting_message_price_shown">Prices are</string>
-  <string name="settings_title_region_settings">Regional settings</string>
+    <!--Fix typo in sdk-->
+    <string name="waiting_message_price_shown">Prices are</string>
+    <string name="settings_title_region_settings">Regional settings</string>
+    <string name="about_information_text">Best Travel is every traveler\'s dream! We will not only find cheap flights around the world, including charters and low-cost airlines, but also find a cozy hotel for You. And if you want to drive a car, we will offer the best options. And all this in one app! We do not sell tickets ourselves, but help you find the best option without Commission with the help of more than 300 partner agencies.</string>
+    <string name="dialog_title" translatable="false">We tried very hard</string>
+    <string name="dialog_text" translatable="false">We will be grateful for your rating and feedback. Thanks!</string>
+    <string name="dialog_negative" translatable="false">Later</string>
+    <string name="dialog_positive" translatable="false">OK</string>
 </resources>
