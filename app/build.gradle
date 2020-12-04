@@ -30,8 +30,8 @@ android {
         multiDexEnabled true
         vectorDrawables.useSupportLibrary = true
         manifestPlaceholders = [
-                GOOGLE_API_KEY: "AIzaSyCzG950PRcqF1oUXrHBH1hFeH26-q0SHVM",
-                onesignal_app_id: 'ee25b6d7-a814-4a87-a01f-df2245f93b99',
+                GOOGLE_API_KEY: "",
+                onesignal_app_id: '',
                 onesignal_google_project_number: 'REMOTE'
         ]
 
